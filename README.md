@@ -17,6 +17,6 @@ This repository contains the information of python and spark for Big data. The c
 
 I am good at Algorithms and Data structure and I have good Projects in Machine learning and Deep Learning (Computer Vision). **I am and would be posting the detialed explantion of each and every project working**.
 
-Also I am Solving **Algorithms and Data Structure Problems from more than 250 Days (36 Weeks) Without any off-Day and have solved more than 415 Questions on various topics and posting my solutions on Github Daily**. You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
+Also I am Solving **Algorithms and Data Structure Problems from more than 260 Days (37 Weeks) Without any off-Day and have solved more than 415 Questions on various topics and posting my solutions on Github Daily**. You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
 
 You can contact me on my mail ID - nisarg.mehta18@vit.edu OR nisargmehta2000@gmail.com and even Contact me on LinkedIn - https://www.linkedin.com/in/nisarg-mehta-4a378a185/
